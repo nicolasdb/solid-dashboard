@@ -55,6 +55,31 @@ Pasted text from other chats or meeting notes.
 
 A distilled report to a collective; notes towards a publication.
 
+## 7 · Prioritising the green
+
+Asked 20 Oct 2026, after the first ritual left 21 items "can start now":
+too much choice paralyses, and keeping order among them by hand is
+exhausting. Dependencies and the fog filter say what *can* start, not what
+*should*.
+
+A review session, as a skill (claude.ai, or Claude Code), weekly (30–45
+min) and monthly (deeper):
+
+1. **Close and park** first (slice 3–4), so the green list is honest.
+2. **Leverage, computed**: for each green item, how many items it unblocks
+   (its dependents, followed through). Most green items unblock nothing;
+   a few unblock many.
+3. **What matters now**, discussed: impact, effort, energy and curiosity,
+   someone waiting, a date. Pareto: the 20% that bring 80%.
+4. **Pick three for the week**, one per lane: *lever* (unblocks the most),
+   *pull* (someone waits, or a date), *curiosity* (a side quest, because
+   variety keeps attention). Everything else green is shown as
+   "available", out of the way.
+5. Monthly: balance between horizontals and verticals, what to kill or
+   park, principles to update.
+
+The view then leads with the week's three, not with every green box.
+
 ## Later
 
 The desktop app (index, Cytoscape, other views), source-map checks.
